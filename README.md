@@ -1,3 +1,5 @@
+ SMF 
+ 
   Sparse Matrix Factorization (SMF) is a key component in many machine learning problems
 
 and there exist a verity a applications in real-world problems such as recommendation systems,
@@ -46,8 +48,6 @@ environments, ITSs model and track student learning states [1, 6, 7]. Latent Fac
 Bayesian Knowledge Tracing are main classes in ITSs [3]. These new approaches encompass
 
 computational models from different disciplines including cognitive and learning sciences, education,
-
-1
 
 computational linguistics, artificial intelligence, operations research, and other fields. More details
 
